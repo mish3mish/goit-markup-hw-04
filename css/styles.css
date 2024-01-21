@@ -36,7 +36,7 @@ img {
   padding-left: 15px;
   padding-right: 15px;
   margin: 0 auto;
-  outline: 2px solid red;
+  /* outline: 2px solid red; */
 }
 
 .visually-hidden {
@@ -314,17 +314,6 @@ img {
 .team-member-info {
   padding-top: 32px;
   padding-bottom: 32px;
-  /* display: flex;
-  text-align: center;
-  justify-content: center;
-  gap: 24px; */
-}
-
-.team-member-icons {
-  display: flex;
-  text-align: center;
-  justify-content: center;
-  gap: 24px;
 }
 
 .member-list {
@@ -516,8 +505,6 @@ img {
 }
 
 .footer-media {
-  /* display: flex;
-  gap: 16px; */
 }
 
 .footer-media-list {
