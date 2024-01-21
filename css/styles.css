@@ -314,13 +314,17 @@ img {
 .team-member-info {
   padding-top: 32px;
   padding-bottom: 32px;
-}
-
-.team-member-icons {
   display: flex;
   text-align: center;
   justify-content: center;
   gap: 24px;
+}
+
+.team-member-icons {
+  /* display: flex;
+  text-align: center;
+  justify-content: center;
+  gap: 24px; */
 }
 
 .member-list {
