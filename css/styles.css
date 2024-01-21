@@ -344,9 +344,9 @@ img {
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-/* .team-icon {
-  fill: transparent;
-} */
+.member-social-icon {
+  fill: #f4f4fd;
+}
 
 .team-subtitle {
   color: #2e2f42;
@@ -531,4 +531,8 @@ img {
 .media-link:hover,
 .media-link:focus {
   background-color: #31d0aa;
+}
+
+.footer-media-icon {
+  fill: #f4f4fd;
 }
