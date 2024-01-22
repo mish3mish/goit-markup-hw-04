@@ -430,7 +430,7 @@ img {
 }
 
 .portfolio-list-item:hover .portfolio-cover-wrap {
-  transform: translateY(0);
+  transform: translateY(0%);
 }
 
 .portfolio-item-text {
